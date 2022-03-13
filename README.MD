@@ -6,7 +6,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: 
 
-Design: [UFO](https://cdn.discordapp.com/attachments/850245533838868480/951399092746092554/404-1.png)
+Design: [BOXES](https://cdn.discordapp.com/attachments/950296439051911178/951432465568899082/unknown.png)
 
 ## Project features
 
