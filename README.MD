@@ -1,6 +1,6 @@
 # BOX IN THE BOX
 
-_Element positioning project_
+_Website project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
@@ -11,8 +11,7 @@ Design: [BOXES](https://cdn.discordapp.com/attachments/950296439051911178/951432
 ## Project features
 
 -   Github pages
--   HTML
--   CSS float
+-   CSS: float, width
 
 ## Authors
 
